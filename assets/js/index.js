@@ -1,7 +1,7 @@
 import {propiedadesVentas} from './data/propiedades_venta.js'
 import { propiedadesAlquiler } from './data/propiedades_alquiler.js'
 
-/// Variables Globales
+
 let cardVentas = document.querySelector('.card-container-ventas')
 let cardAlquiler = document.querySelector('.card-container-alquiler')
 const desplegarVentas = document.querySelector('#desplegar-ventas')
